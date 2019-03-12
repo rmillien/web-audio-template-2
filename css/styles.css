@@ -12,10 +12,10 @@ body {
   border: 3px solid black;
   border-radius: 3px;
   background: none;
-  transition: color .2s,
+  transition: color .8s,
   border .2s,
-  border-color .2s,
-  border-radius .2s,
+  border-color .6s,
+  border-radius .4s,
   padding .2s,
   margin .2s;
 }
